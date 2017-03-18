@@ -3,9 +3,7 @@ body {
   color: white;
 }
 
-div {
-  outline: 1px solid yellow;
-}
+
 
 .logo {
   width: 200px;
@@ -51,4 +49,25 @@ div {
 
 .nav li:last-child {
   border-right: none;
+}
+
+.box1 {
+  width: 940px;
+  height: 212px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(135, 169, 132);
+}
+
+.box2 {
+  width: 198px;
+  height: 614px;
+  margin-top: 10px;
+  background-color: rgb(150, 175, 172);
+  float: left;
+}
+
+ ul {
+    display: block;
+    font-family: sans-serif;
 }
