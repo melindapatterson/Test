@@ -1,0 +1,90 @@
+
+body {
+  background-color: #441E13;
+
+  color: white;
+}
+
+
+.logo {
+  width: 205px;
+  float: left;
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.slogan {
+  width: 380px;
+  float: left;
+  color: #a37b71;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  margin-top: 18px;
+}
+
+.logoContainer {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.nav {
+  width: 920px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0,0,0,0.25);
+  padding: 0 10px;
+  padding-top: 18px;
+}
+
+.nav li {
+  display: block;
+  float: left;
+  font-family: sans-serif;
+  padding: 6px 20px;
+  border-right: 1px solid #D4B364;
+}
+
+.nav li:last-child {
+  border-right: none;
+}
+
+.box1 {
+  max-width: 940px;
+  height: 212px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(135,169,132);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 16px;
+    width: 200px;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DBD8C5
+
+}
+
+ul:first-child {
+  padding-top: 20px;
+}
+
+.box3 {
+  max-width: 940px;
+  height: 614px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(to right,  #96AFAC 0%,#96AFAC 20%,#DBD8C5 0%,#DBD8C5 100%);
+
+}
